@@ -49,10 +49,10 @@ Follow the step-by-step guide to build this project:
 
 ---
 
-##📚 Learning Purpose
+##📚 Learning Purpose<br>
 
-This project is a great resource for learning:
-Flutter Google Maps integration
-Real-time location tracking
-Firebase Realtime Database
-Handling location permissions
+-This project is a great resource for learning:
+-Flutter Google Maps integration
+-Real-time location tracking
+-Firebase Realtime Database
+-Handling location permissions
