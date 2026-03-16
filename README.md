@@ -41,8 +41,8 @@ Follow the step-by-step guide to build this project:
 
 ## 🔗 Useful Links
 
-- 🌐 Google Cloud Console  
-- 📍 Location Package Documentation  
-- 🗺️ Google Maps Flutter Package  
-- 🔐 Permission Handler Package  
+- 🌐 Google Cloud Console . 
+- 📍 Location Package Documentation .
+- 🗺️ Google Maps Flutter Package  .
+- 🔐 Permission Handler Package . 
 ---
