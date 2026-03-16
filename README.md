@@ -33,9 +33,9 @@ Follow the step-by-step guide to build this project:
 ---
 ## 📦 Packages Used
 
-- 📍 Location Package  
-- 🗺️ Google Maps Flutter Package  
-- 🔐 Permission Handler Package  
+- 📍 Location Package .
+- 🗺️ Google Maps Flutter Package.  
+- 🔐 Permission Handler Package . 
 
 ---
 
