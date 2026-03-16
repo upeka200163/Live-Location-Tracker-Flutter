@@ -1,24 +1,79 @@
-# Flutter Live Location Tracker
+# 📍 Flutter Live Location Tracker
 
-Source Code for flutter Live Location Tracker using goooglmap and location package.<br>
+A **Flutter Live Location Tracker** application that allows users to share and track real-time locations using **Google Maps** and **Firebase Realtime Database**.
 
-## App Features
-- Add current location to firebase and locate it in google map.<br>
-- Enable your live location and track it live in other devices.<br><br>
+This project demonstrates how to integrate **Google Maps**, **Location Services**, and **Firebase** in a Flutter application.
 
+---
 
-For Step By Step Guide Follow Video Tutorials:
-- [Flutter Live Location Tracker - Google map and Firebase + Source Code](https://bit.ly/3hlM3Lr)
-- [Check How To Use](https://youtu.be/xglk8en3pjU)
+## 🚀 Features
 
-## Links used in project:
+- 📌 Add your current location to Firebase
+- 🗺️ Display location on Google Maps
+- 📡 Enable live location sharing
+- 📍 Track location updates in real time on other devices
+- 🔐 Handle location permissions using Permission Handler
 
-- [Cloud Console](https://bit.ly/3qLUjY9)
-- [Location Package](https://bit.ly/2XcsBcX)
-- [Google Map Package](https://bit.ly/2Vu1SYC)
-- [Permission Handler Package](https://bit.ly/2X1WAnE)
-<br><br>
+---
 
-Feel Free to copy the code and use it.<br><br>
+## 📺 Video Tutorial
 
-This project is a great resource for learning Flutter and Google Maps integration.
+Follow the step-by-step guide to build this project:
+
+▶ **Flutter Live Location Tracker - Google Map + Firebase Tutorial**
+
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter**
+- **Firebase Realtime Database**
+- **Google Maps API**
+
+---
+
+## 📦 Packages Used
+
+- 📍 Location Package  
+- 🗺️ Google Maps Flutter Package  
+- 🔐 Permission Handler Package  
+
+---
+
+## 🔗 Useful Links
+
+- 🌐 Google Cloud Console  
+- 📍 Location Package Documentation  
+- 🗺️ Google Maps Flutter Package  
+- 🔐 Permission Handler Package  
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/flutter-live-location-tracker.git
+bash
+   ```
+----
+2.Navigate to project folder
+
+cd flutter-live-location-tracker
+
+3.Install dependencies
+
+flutter pub get
+
+4.Run the application
+
+flutter run
+----
+##📚 Learning Purpose
+
+This project is a great resource for learning:
+Flutter Google Maps integration
+Real-time location tracking
+Firebase Realtime Database
+Handling location permissions
