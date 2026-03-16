@@ -49,27 +49,6 @@ Follow the step-by-step guide to build this project:
 
 ---
 
-## ⚙️ How to Run the Project
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/flutter-live-location-tracker.git
-bash
-   ```
-----
-2.Navigate to project folder
-
-cd flutter-live-location-tracker
-
-3.Install dependencies
-
-flutter pub get
-
-4.Run the application
-
-flutter run
-----
 ##📚 Learning Purpose
 
 This project is a great resource for learning:
