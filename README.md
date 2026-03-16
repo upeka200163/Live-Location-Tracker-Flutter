@@ -1,11 +1,4 @@
 # Flutter Live Location Tracker
-# Live Location Tracker Flutter
-
-[![Build Status](https://github.com/upeka200163/Live-Location-Tracker-Flutter/actions/workflows/main.yml/badge.svg)](https://github.com/upeka200163/Live-Location-Tracker-Flutter/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/upeka200163/Live-Location-Tracker-Flutter?style=social)](https://github.com/upeka200163/Live-Location-Tracker-Flutter/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/upeka200163/Live-Location-Tracker-Flutter?style=social)](https://github.com/upeka200163/Live-Location-Tracker-Flutter/network/members)
-[![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue.svg?logo=flutter)](https://flutter.dev)
 
 Source Code for flutter Live Location Tracker using goooglmap and location package.<br>
 
